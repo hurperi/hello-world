@@ -1,9 +1,1 @@
-# hello-world
-testing github
-
-Here I am,
-this is me,
-there's nowhere else on earth I'd rather be
-
-
-some new words
+uusi haara ja uutta edittiä
